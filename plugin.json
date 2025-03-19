@@ -1,0 +1,7 @@
+{
+            "version": "1.0.0",
+            "description": "A simple plugin",
+            "author": "Your Name",
+            "source": "https://github.com/andrewmd5/dami-plugin-test",
+            "handles": ["jpg"]
+}
