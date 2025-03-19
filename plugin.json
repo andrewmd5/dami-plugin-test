@@ -1,4 +1,5 @@
 {
+            "name": "foobar",
             "version": "1.0.0",
             "description": "A simple plugin",
             "author": "Your Name",
