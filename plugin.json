@@ -1,9 +1,9 @@
 {
             "name": "foobar",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "description": "A simple plugin",
             "author": "Your Name",
-            "download_url": "https://github.com/andrewmd5/dami-plugin-test/releases/download/v1.0.0/foobar.wasm",
+            "download_url": "https://github.com/andrewmd5/dami-plugin-test/releases/download/v1.0.3/foobar.wasm",
             "source": "https://github.com/andrewmd5/dami-plugin-test",
             "handles": ["jpg"]
 }
